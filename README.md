@@ -1,6 +1,6 @@
 # Getting And Cleaning Project
-Peer-graded Assignment: Getting and Cleaning Data Course Project (week 4)
-Cousera course / Data Science/ Johns Hopkins University
+- Peer-graded Assignment: Getting and Cleaning Data Course Project (week 4)
+- Cousera course / Data Science/ Johns Hopkins University
 
 ## Purpose of the project
 The purpose of this project is to demonstrate my ability to collect, work with, and clean a data set.
@@ -25,13 +25,13 @@ the git Repository contents 5 files:
    
 ## How to
 ### retrieve the data sets
-clone this git repository
-and directly acces to the two data files which are in CSV format:
+- clone this git repository
+- and directly acces to the two data files which are in CSV format:
 
 ### regenerate the data sets
-clone this git repository
-set the R working dierctory to the directory wich contains the script.R file
-source analysis.R file to regenerate the two tCSV idy data files
-another way is copy/paste script file contents to R's console and execute it
+- clone this git repository
+- set the R working dierctory to the directory wich contains the script.R file
+- source analysis.R file to regenerate the two tCSV idy data files
+- another way is copy/paste script file contents to R's console and execute it
    
    
