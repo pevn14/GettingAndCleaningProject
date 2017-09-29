@@ -1,5 +1,6 @@
 # don't forget to set the working directory to your git cloned directoey
 #setwd("~/myWorkingDirectory")
+library(dplyr) # install dplyr package if necessary
 
 # load and unzip data files
 url<-"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
