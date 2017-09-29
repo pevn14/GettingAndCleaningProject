@@ -31,7 +31,7 @@ the git Repository contents 5 files:
 ### regenerate the data sets
 - clone this git repository
 - set the R working dierctory to the directory wich contains the script.R file
-- source analysis.R file to regenerate the two tCSV idy data files
+- source analysis.R file to regenerate the two CSV tidy data files
 - another way is copy/paste script file contents to R's console and execute it
    
    
