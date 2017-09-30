@@ -75,3 +75,5 @@ dim(data_mean_sd_narrow) # must be 180 x 81
 
 # save result as an csv file
 write.csv(data_mean_sd_narrow, "data_mean_sd_narrow.csv", row.names = FALSE) # don't forget to set row.names = FALSE
+#save result as txt file for submission
+write.table(data_mean_sd_narrow, "data_narrow.txt", row.names = FALSE)
