@@ -1,3 +1,7 @@
+# Getting And Cleaning Project
+# Peer-graded Assignment: Getting and Cleaning Data Course Project (week 4)
+# Cousera course / Data Science/ Johns Hopkins University
+#
 # don't forget to set the working directory to your git cloned directoey
 #setwd("~/myWorkingDirectory")
 library(dplyr) # install dplyr package if necessary
